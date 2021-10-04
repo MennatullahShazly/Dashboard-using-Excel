@@ -19,6 +19,10 @@ The data is in a tabular format and is classified by:
 -Product Buyer
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79003543/135903206-9ebf48d5-cafa-42dc-991a-96cbfd22de67.png" />
+</p>
+
 
 
 
